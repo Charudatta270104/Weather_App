@@ -31,10 +31,13 @@
 ## 🛠️ Setup Instructions
 
 i) Clone the repository:
-`bash 
-    git clone https://github.com/your-username/weather-app.git
-    cd weather-app
-    `
+
+```bash
+
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app
+```
+
 ii) Update the API Key:
 
 - Replace the value of x-rapidapi-key in index.js with your own RapidAPI key.
